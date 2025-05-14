@@ -31,6 +31,7 @@ cd course-project
 
 ```bash
 npm install
+npm install figlet
 ```
 
 ## Usage
