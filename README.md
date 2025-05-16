@@ -1,5 +1,10 @@
 # Blockchain Lottery
 
+Group members:
+Naphak JAENGJAIKUL 3036095427
+Tatiyavongchai Teethat 3036100052
+Ma Tsz Hin 3036104242
+
 A ticket-based blockchain lottery system where users purchase numbered tickets, and one ticket is randomly selected as the winner. The owner of the winning ticket receives the entire prize pool.
 
 ## Features
