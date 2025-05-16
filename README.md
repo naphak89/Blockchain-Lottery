@@ -24,7 +24,7 @@ A ticket-based blockchain lottery system where users purchase numbered tickets, 
 
 ```bash
 git clone <repository-url>
-cd course-project
+cd .\Blockchain-Lottery\
 ```
 
 2. Install dependencies:
